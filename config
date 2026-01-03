@@ -1,0 +1,6 @@
+Host runpod-4090
+    HostName 103.196.86.104
+    User root
+    Port 13769
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes
