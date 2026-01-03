@@ -11,9 +11,7 @@ training.log
 
 # Data - keep only final parquets
 data/old_data/
-data/george_ho.db
-data/george_ho.parquet
-data/*_words.csv
+data/local_only/
 data/test_subset/
 
 # Notebooks
