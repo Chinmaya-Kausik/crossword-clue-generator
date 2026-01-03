@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Training outputs
+checkpoints/
+checkpoints_test/
+tokenized_cache/
+training.log
+
+# Data - keep only final parquets
+data/old_data/
+data/george_ho.db
+data/george_ho.parquet
+data/*_words.csv
+data/test_subset/
+
+# Notebooks
+notebooks/.ipynb_checkpoints/
